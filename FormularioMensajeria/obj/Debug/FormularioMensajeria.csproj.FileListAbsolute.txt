@@ -1,0 +1,30 @@
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\bin\Debug\FormularioMensajeria.exe.config
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\bin\Debug\FormularioMensajeria.exe
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\bin\Debug\FormularioMensajeria.pdb
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\bin\Debug\Controles.dll
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\bin\Debug\Controles.pdb
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\obj\Debug\FormularioMensajeria.Form1.resources
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\obj\Debug\FormularioMensajeria.Properties.Resources.resources
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\obj\Debug\FormularioMensajeria.csproj.GenerateResource.Cache
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\obj\Debug\FormularioMensajeria.exe
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\obj\Debug\FormularioMensajeria.pdb
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\bin\Debug\Negocio.dll
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\bin\Debug\BaseDeDatos.dll
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\bin\Debug\Negocio.pdb
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\bin\Debug\BaseDeDatos.pdb
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\obj\Debug\FormularioMensajeria.csprojResolveAssemblyReference.cache
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\bin\Debug\FormularioMensajeria.exe.config
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\bin\Debug\FormularioMensajeria.exe
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\bin\Debug\FormularioMensajeria.pdb
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\bin\Debug\Controles.dll
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\bin\Debug\Negocio.dll
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\bin\Debug\BaseDeDatos.dll
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\bin\Debug\Negocio.pdb
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\bin\Debug\Controles.pdb
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\bin\Debug\BaseDeDatos.pdb
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\obj\Debug\FormularioMensajeria.csprojResolveAssemblyReference.cache
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\obj\Debug\FormularioMensajeria.Form1.resources
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\obj\Debug\FormularioMensajeria.Properties.Resources.resources
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\obj\Debug\FormularioMensajeria.csproj.GenerateResource.Cache
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\obj\Debug\FormularioMensajeria.exe
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioMensajeria\obj\Debug\FormularioMensajeria.pdb

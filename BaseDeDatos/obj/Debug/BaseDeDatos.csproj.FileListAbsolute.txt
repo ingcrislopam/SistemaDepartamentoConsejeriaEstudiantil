@@ -1,0 +1,10 @@
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\BaseDeDatos\bin\Debug\BaseDeDatos.dll
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\BaseDeDatos\obj\Debug\BaseDeDatos.dll
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\BaseDeDatos\obj\Debug\BaseDeDatos.csprojResolveAssemblyReference.cache
+F:\SistemaDepartamentoConsejeriaEstudiantil\BaseDeDatos\bin\Debug\BaseDeDatos.dll
+F:\SistemaDepartamentoConsejeriaEstudiantil\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+F:\SistemaDepartamentoConsejeriaEstudiantil\BaseDeDatos\obj\Debug\BaseDeDatos.csprojResolveAssemblyReference.cache
+F:\SistemaDepartamentoConsejeriaEstudiantil\BaseDeDatos\obj\Debug\BaseDeDatos.dll
+F:\SistemaDepartamentoConsejeriaEstudiantil\BaseDeDatos\obj\Debug\BaseDeDatos.pdb

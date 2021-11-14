@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0BFD4CD5-F9CE-4480-A909-97D5799DCE80}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Controles</RootNamespace>
+    <AssemblyName>Controles</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="boton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="boton.Designer.cs">
+      <DependentUpon>boton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cabecera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cabecera.Designer.cs">
+      <DependentUpon>Cabecera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cedula.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="cedula.Designer.cs">
+      <DependentUpon>cedula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="combo.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="combo.Designer.cs">
+      <DependentUpon>combo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dataFecha.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="dataFecha.Designer.cs">
+      <DependentUpon>dataFecha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dataG.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="dataG.Designer.cs">
+      <DependentUpon>dataG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="etiqueta.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="etiqueta.Designer.cs">
+      <DependentUpon>etiqueta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="imagen.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="imagen.Designer.cs">
+      <DependentUpon>imagen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="numero.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="numero.Designer.cs">
+      <DependentUpon>numero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="numeroConPunto.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="numeroConPunto.Designer.cs">
+      <DependentUpon>numeroConPunto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="panel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="panel.Designer.cs">
+      <DependentUpon>panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="texto.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="texto.Designer.cs">
+      <DependentUpon>texto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="textoCompleto.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="textoCompleto.Designer.cs">
+      <DependentUpon>textoCompleto.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Cabecera.resx">
+      <DependentUpon>Cabecera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cedula.resx">
+      <DependentUpon>cedula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="numero.resx">
+      <DependentUpon>numero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="numeroConPunto.resx">
+      <DependentUpon>numeroConPunto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="texto.resx">
+      <DependentUpon>texto.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

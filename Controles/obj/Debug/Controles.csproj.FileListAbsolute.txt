@@ -1,0 +1,24 @@
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Controles\bin\Debug\Controles.dll
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Controles\bin\Debug\Controles.pdb
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Controles\obj\Debug\Controles.Cabecera.resources
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Controles\obj\Debug\Controles.cedula.resources
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Controles\obj\Debug\Controles.numero.resources
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Controles\obj\Debug\Controles.numeroConPunto.resources
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Controles\obj\Debug\Controles.Properties.Resources.resources
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Controles\obj\Debug\Controles.texto.resources
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Controles\obj\Debug\Controles.dll
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Controles\obj\Debug\Controles.pdb
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+F:\SistemaDepartamentoConsejeriaEstudiantil\Controles\bin\Debug\Controles.dll
+F:\SistemaDepartamentoConsejeriaEstudiantil\Controles\bin\Debug\Controles.pdb
+F:\SistemaDepartamentoConsejeriaEstudiantil\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+F:\SistemaDepartamentoConsejeriaEstudiantil\Controles\obj\Debug\Controles.Cabecera.resources
+F:\SistemaDepartamentoConsejeriaEstudiantil\Controles\obj\Debug\Controles.cedula.resources
+F:\SistemaDepartamentoConsejeriaEstudiantil\Controles\obj\Debug\Controles.numero.resources
+F:\SistemaDepartamentoConsejeriaEstudiantil\Controles\obj\Debug\Controles.numeroConPunto.resources
+F:\SistemaDepartamentoConsejeriaEstudiantil\Controles\obj\Debug\Controles.Properties.Resources.resources
+F:\SistemaDepartamentoConsejeriaEstudiantil\Controles\obj\Debug\Controles.texto.resources
+F:\SistemaDepartamentoConsejeriaEstudiantil\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+F:\SistemaDepartamentoConsejeriaEstudiantil\Controles\obj\Debug\Controles.dll
+F:\SistemaDepartamentoConsejeriaEstudiantil\Controles\obj\Debug\Controles.pdb

@@ -1,0 +1,32 @@
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\bin\Debug\FormularioEstudiante.exe.config
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\bin\Debug\FormularioEstudiante.exe
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\bin\Debug\FormularioEstudiante.pdb
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\bin\Debug\Controles.dll
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\bin\Debug\Controles.pdb
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\obj\Debug\FormularioEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\obj\Debug\FormularioEstudiante.Form1.resources
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\obj\Debug\FormularioEstudiante.Properties.Resources.resources
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\obj\Debug\FormularioEstudiante.csproj.GenerateResource.Cache
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\obj\Debug\FormularioEstudiante.exe
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\obj\Debug\FormularioEstudiante.pdb
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\bin\Debug\Negocio.dll
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\bin\Debug\BaseDeDatos.dll
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\bin\Debug\Negocio.pdb
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\bin\Debug\BaseDeDatos.pdb
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\obj\Debug\FormularioEstudiante.ExportarEstudiantes.resources
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\bin\Debug\FormularioEstudiante.exe.config
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\bin\Debug\FormularioEstudiante.exe
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\bin\Debug\FormularioEstudiante.pdb
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\bin\Debug\Controles.dll
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\bin\Debug\Negocio.dll
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\bin\Debug\BaseDeDatos.dll
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\bin\Debug\Controles.pdb
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\bin\Debug\Negocio.pdb
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\bin\Debug\BaseDeDatos.pdb
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\obj\Debug\FormularioEstudiante.csprojResolveAssemblyReference.cache
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\obj\Debug\FormularioEstudiante.ExportarEstudiantes.resources
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\obj\Debug\FormularioEstudiante.Form1.resources
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\obj\Debug\FormularioEstudiante.Properties.Resources.resources
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\obj\Debug\FormularioEstudiante.csproj.GenerateResource.Cache
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\obj\Debug\FormularioEstudiante.exe
+F:\SistemaDepartamentoConsejeriaEstudiantil\FormularioEstudiante\obj\Debug\FormularioEstudiante.pdb

@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9A9F4A08-2F1A-4543-B85C-50AD7C9A0B21}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FormularioPrincipal</RootNamespace>
+    <AssemblyName>FormularioPrincipal</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Controles">
+      <HintPath>..\Controles\obj\Debug\Controles.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FormularioAntecedenteFamiliar\FormularioAntecedenteFamiliar.csproj">
+      <Project>{454242b5-2879-417c-bdb1-caaeebad3509}</Project>
+      <Name>FormularioAntecedenteFamiliar</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FormularioAntecedentePersonal\FormularioAntecedentePersonal.csproj">
+      <Project>{c7ce2714-3613-42d7-8110-3a85e639bc74}</Project>
+      <Name>FormularioAntecedentePersonal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FormularioEstudiante\FormularioEstudiante.csproj">
+      <Project>{83c05e39-baf4-4aac-811c-58a3f01c19d5}</Project>
+      <Name>FormularioEstudiante</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FormularioHistorialFormativo\FormularioHistorialFormativo.csproj">
+      <Project>{20552a29-22ae-4556-94b3-fe9d35082574}</Project>
+      <Name>FormularioHistorialFormativo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FormularioMensajeria\FormularioMensajeria.csproj">
+      <Project>{6bb19996-5378-4f6e-bc61-e9fc02755efd}</Project>
+      <Name>FormularioMensajeria</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FormularioRepresentante\FormularioRepresentante.csproj">
+      <Project>{514822ba-23b4-415a-b36f-3d7012772837}</Project>
+      <Name>FormularioRepresentante</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HistorialComportamental\FormularioHistorialComportamental.csproj">
+      <Project>{b7e55605-3d79-4ad4-bfac-1acafdfc88d7}</Project>
+      <Name>FormularioHistorialComportamental</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

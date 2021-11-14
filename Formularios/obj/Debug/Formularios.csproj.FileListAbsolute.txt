@@ -1,0 +1,10 @@
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Formularios\bin\Debug\Formularios.dll
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Formularios\obj\Debug\Formularios.csprojResolveAssemblyReference.cache
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Formularios\obj\Debug\Formularios.FormularioPrincipal.resources
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Formularios\obj\Debug\Formularios.csproj.GenerateResource.Cache
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Formularios\obj\Debug\Formularios.dll
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Formularios\bin\Debug\Controles.dll
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Formularios\bin\Debug\Controles.pdb
+C:\Users\Cristhian\Documents\Visual Studio 2012\Projects\SistemaDepartamentoConsejeriaEstudiantil\Formularios\obj\Debug\Formularios.FormularioEstudiante.resources
